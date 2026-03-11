@@ -1,5 +1,5 @@
 play.minecraft()
 
-oh_this_is_bug.run()
+"oh_this_is_bug"
 
 start.modding()
